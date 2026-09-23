@@ -329,4 +329,13 @@ COMET_PROJECT_NAME=your_project
 - Use `strategy: "ddp_find_unused_parameters_true"` for federated learning
 - Ensure all GPUs are visible: `export CUDA_VISIBLE_DEVICES=0,1`
 
+## Citation
+
+If you use this code, please cite the relevant paper (add citation here when available).
+
+## Contact
+
+Lead Researchers: Kanishka Roy (kroy02@g.ucla.edu), Tahsin Fuad Hasan (tahsinfu@buffalo.edu)
+
+
 
